@@ -5,7 +5,7 @@ A ready-made MSSQL database named [Bike Stores Sample Database](https://www.sqls
     ?   create database DapperDB or otherName  :  use DapperDB or otherName;
         create object query;   >>   load data query;
 
-MSSQL [DB\Programmability\Stored Procedures]() were written for queries.
+MSSQL [DB\Programmability\Stored Procedures](https://github.com/AtakanTurgut/BikeStore_Dapper/blob/main/proceduresQuery.sql) were written for queries.
 
 ### NuGet Gallery
 - Some packages can be installed from the "[NuGet Gallery](https://www.nuget.org/packages/Microsoft.AspNet.Identity.Core)" with the help of the `Tools > NuGet Package Manager > Package Manager Console`.
